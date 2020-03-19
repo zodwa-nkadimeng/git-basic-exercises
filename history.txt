@@ -1,0 +1,414 @@
+    1  ls
+    2  pwd
+    3  ls -la
+    4  etc
+    5  pwd
+    6  ~
+    7  mkdir workspace
+    8  mkdir cd workspace 
+    9  rmdir workspace
+   10  mkdir workspace
+   11  cd
+   12  ls
+   13  rmdir workspace
+   14  mkdir workspace
+   15  mkdir workspace cd
+   16  mkdir workspace
+   17  cd workspace
+   18  ls
+   19  touch README.md
+   20  cp README.md
+   21  rm README.md
+   22  touch README.md
+   23  cp mv README.md CHANGELOg.md
+   24  ls
+   25  rmdir workspace
+   26  c /home
+   27  cd /home
+   28  ls
+   29  cd zodwa
+   30  ls
+   31  mkdir workspace
+   32  ls
+   33  cd workspace
+   34  ls
+   35  touch README.md
+   36  ls
+   37  cp README.md CHANGELOG.md
+   38  ls
+   39  touch exercise.md
+   40  ls
+   41  mv exercise.md /tmp
+   42  ls
+   43  cd /tmp
+   44  ls
+   45  rm exercise.md
+   46  ls
+   47  cd /workspace
+   48  cd /home
+   49  ls
+   50  cd /zodwa 
+   51  cd zodwa
+   52  ls
+   53  cd workspace 
+   54  touch umuzi.md recruits.md cohort.md 
+   55  ls
+   56  nano umuzi.md
+   57  nano recruit.md
+   58  echo "they are boring" > recruits.md
+   59  echo "they are lovely" > cohort.md
+   60  ls
+   61  cd /zodwa
+   62  cd zodwa
+   63  cd/home
+   64  cd /home
+   65  pwd
+   66  cd workspace 
+   67  ls
+   68  pwd
+   69  workspace
+   70  mkdir workspace 
+   71  cd workspace
+   72  ls
+   73  touch README.md 
+   74  ls
+   75  cp README.md
+   76  cd
+   77  cd workspace
+   78  ls
+   79  cp README.md 
+   80  cp README.md workspace
+   81  mv README.md CHANGELOG
+   82  cd workspace
+   83  cd home
+   84  cd /home
+   85  cd /workspace
+   86  ls
+   87  cd zodwa 
+   88  locate workspace
+   89  ../../workspace
+   90  cd /home
+   91  ls
+   92  cd /zodwa
+   93  ls
+   94  cd workspace
+   95  ls
+   96  rm workspace
+   97  ls
+   98  locate README.md
+   99  ls
+  100  rm CHANGELOG
+  101  ls
+  102  touch README.md
+  103  ls
+  104  cp README.md CHANGELOG.md
+  105  ls
+  106  touch exercise.md
+  107  ls
+  108  mv exercise.md /tmp
+  109  ls
+  110  exercise.md
+  111  ls
+  112  cd /tmp
+  113  ls
+  114  cd workspace
+  115  cd /workspace
+  116  ~
+  117  cd /home
+  118  ls
+  119  zodwa
+  120  cd /zodwa
+  121  ls
+  122  cd zodwa
+  123  ls
+  124  cd workspace
+  125  ls
+  126  rm /tmp/exercise.md
+  127  cd /tmp
+  128  ls
+  129  cd home
+  130  cd /home
+  131  ls
+  132  cd zodwa
+  133  ls
+  134  cd workspace
+  135  ls
+  136  touch umuzi.md recruits.md cohort.md
+  137  ls
+  138  nano umuzi
+  139  cd home
+  140  cd /home
+  141  ls
+  142  cd zodwa
+  143  ls
+  144  cd workspace
+  145  ls
+  146  rm umuzi
+  147  ls
+  148  rm umuzi.save
+  149  ls
+  150  less umuzi.md
+  151  ls
+  152  cd workspace
+  153  ls
+  154  nano umuzi.md
+  155  nano cohort.md
+  156  nano recruits.md
+  157  cat umuzi.md recruits.md cohort.md >summary.md
+  158  ls
+  159  summary.md
+  160  less summary.md
+  161  less summary
+  162  ls
+  163  less summary
+  164  less summary.md
+  165  locate umuzi
+  166  ls
+  167  locate umuzi.md
+  168  locate umuzi > search_result.md
+  169  less search_result.md
+  170  ls
+  171  ls search_result.md
+  172  nano findumuzi
+  173  ls
+  174  rm findumuzi
+  175  nano findumuzi.sh
+  176  chmod 0700 findumuzi.sh 
+  177  ./findumuzi.sh 
+  178  nano findumuzi.sh 
+  179  chmod 0700 findumuzi.sh 
+  180  ./findumuzi.sh 
+  181  cd home
+  182  cd
+  183  chmod 0700 findumuzi.sh
+  184  chmod 0700 findumuzi
+  185  ls
+  186  cd workspace
+  187  ls
+  188  chmod 0700 findumuzi.sh 
+  189  less findumuzi
+  190  less findumuzi.sh
+  191  ls 
+  192  echo “The End” >> summary.md
+  193  ls
+  194  lls
+  195  ls
+  196  less summary.md
+  197  rm findumuzi,sh
+  198  ls
+  199  rm findumuzi.sh
+  200  ls
+  201  nano findumuzi.sh
+  202  ls
+  203  chmod 0700 findumuzi 
+  204  chmod 0700 findumuzi.sh
+  205  cd home
+  206  ls
+  207  chmod 0700 findumuzi.sh
+  208  ls
+  209  cd workspace
+  210  chmod 0700 findumuzi.sh
+  211  ls
+  212  cd home
+  213  ls
+  214  cd /home
+  215  chmod 0700 findumuzi.sh
+  216  cd
+  217  chmod 0700 findumuzi.sh
+  218  ./findumuzi.sh 
+  219  nano findumuzi.sh 
+  220  chmod 0700 findumuzi.sh
+  221  ./findumuzi.sh 
+  222  locate umuzi
+  223  locate cohort
+  224  locate cohort.md
+  225  ls
+  226  locate music
+  227  locate umuzi
+  228  locate zodwa
+  229  locate umuzi
+  230  locate workspace
+  231  locate umuzi
+  232  ./
+  233  locate summary
+  234  locate workspace
+  235  locate umuzi
+  236  less findumuzi.sh
+  237  documents 
+  238  cd documents
+  239  ls
+  240  cd documents
+  241  cd /documents
+  242  cd home
+  243  cd/home
+  244  ls
+  245  cd downloads
+  246  cd /workspace
+  247  cd workspace
+  248  cd home
+  249  cd /home
+  250  cd workspace
+  251  cd zodwa
+  252  cd /home
+  253  cd workspace
+  254  ls
+  255  cd zodwa
+  256  cd workspace
+  257  cd /home
+  258  ls
+  259  cd zodwa
+  260  cd /workspace
+  261  cd workspace
+  262  cd zodwa
+  263  cd /zodwa
+  264  cd /home
+  265  cd zodwa
+  266  cd /home
+  267  cd /workspace
+  268  cd /home
+  269  cd ~
+  270  cd /zodwa
+  271  cd zodwa
+  272  touch pad.md
+  273  ls
+  274  cd Documents
+  275  touch pad.md
+  276  ls
+  277  cd ~
+  278  cd Desktop
+  279  cd Documents
+  280  mkdir pad.md
+  281  cd Desktop
+  282  ls
+  283  cd /Desktop
+  284  ls
+  285  cd Desktop
+  286  cd /zodwa
+  287  cd/home/zodwa/Desktop
+  288  cd /home
+  289  cd ~
+  290  cd Desktop
+  291  mkdir work
+  292  ls
+  293  cp pad.md pad_copy.md
+  294  ~
+  295  cd ~
+  296  locate pad.md
+  297  cd Documents
+  298  ls
+  299  rm .md
+  300  cd Desktop
+  301  cd ~ home
+  302  cd `
+  303  .
+  304  `
+  305  cd Desktop
+  306  cp pad.md 
+  307  cp pad.md pad_copy Documents
+  308  ls
+  309  ./findumuzi.sh
+  310  cat findumuzi.sh
+  311  locate umuzi
+  312  sudu updatedb
+  313  sudo updatedb
+  314  q
+  315  locate umuzi
+  316  ./findumuzi.sh
+  317  locate umuzi >search
+  318  locate umuzi >search_result.md
+  319  ls
+  320  ./search_result
+  321  ls
+  322  less search_result.md
+  323  mkdir git-basic-exercises
+  324  cd git-basic-exercises
+  325  ls -a
+  326  git init
+  327  sudo apt install git
+  328  ls -
+  329  ls -a
+  330  git statua
+  331  git status
+  332  git log
+  333  git init
+  334  git status
+  335  touch README.md
+  336  ls -a
+  337  git status
+  338  git init
+  339  git staus
+  340  git status
+  341  ls -a
+  342  git status
+  343  ls -a
+  344  git init
+  345  git status
+  346  ls
+  347  ls -a
+  348  git status
+  349  git init
+  350  git status
+  351  git log
+  352  git add
+  353  git add README.md
+  354  git status
+  355  git rm --cached README.md
+  356  git status
+  357  git add README.md
+  358  git commit -m "initial commit"
+  359  git config --global user.email nkadimengntombizodwa@gmail.com
+  360  git config --global user.name zodwa-nkadimeng
+  361  git commit -m "initial commit"
+  362  git log 
+  363  q
+  364  nano README.md
+  365  cat README.md 
+  366  git stats
+  367  git status
+  368  git commit -m "second commit"
+  369  git add .git add ..
+  370  git add .
+  371  git status
+  372  git commit "second commit"
+  373  git commit -m "second commit"
+  374  commit -m "third commit"
+  375  git commit -m "third commit"
+  376  cat README,md
+  377  cat README.md
+  378  git status
+  379  git commit -m "third commit"
+  380  git log
+  381  git commit -m "third commit"
+  382  nano README.md 
+  383  git commit -m "third commit"
+  384  git log
+  385  nano README.md 
+  386  git commit -m "third commit"
+  387  git add --catched README.md 
+  388  git add --cached README.md 
+  389  git status
+  390  git add README.md 
+  391  git commit -m "third commit"
+  392  git log
+  393  q
+  394  git checkout
+  395  cat README.md
+  396  git checkout master
+  397  cat README.md
+  398  milkshake-flavours
+  399  git branch milkshake-flavours
+  400  git branch
+  401  git checkout milkshake-flavours 
+  402  git branch
+  403  nano milkshakes.md
+  404  git status
+  405  git add milkshakes 
+  406  git add milkshakes.md
+  407  git commit -m "added initial flavours"
+  408  git log
+  409  git checkout master
+  410  git branch history
+  411  git check history
+  412  git checkout history
+  413  git log
+  414  history > history.txt
